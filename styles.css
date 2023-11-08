@@ -28,7 +28,7 @@ img, picture, svg, video {
 }
 
 .hero {
-    background-image: url(./LULIPORTADA.JPG);
+    /* background-image: url(./LULIPORTADA.JPG); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -55,9 +55,9 @@ img, picture, svg, video {
 
 
 
-
+/* 
 @media (max-width:940px) {
     .hero {
         background-image: url(./LULIPORTADAMOBILE.jpg);
     }
-}
+} */
