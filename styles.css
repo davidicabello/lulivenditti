@@ -58,6 +58,6 @@ img, picture, svg, video {
 
 @media (max-width:940px) {
     .hero {
-        background-image: url(./LULIPORTADAMOBILE.JPG);
+        background-image: url(./LULIPORTADAMOBILE.jpg);
     }
 }
