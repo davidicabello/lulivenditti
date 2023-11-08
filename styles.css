@@ -55,3 +55,9 @@ img, picture, svg, video {
     color:
         #d89954;
 }
+
+@media (max-width:940px) {
+    .hero {
+        background-image: url(./LULIPORTADAMOBILE.JPG);
+    }
+}
