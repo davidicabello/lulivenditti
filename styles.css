@@ -51,13 +51,21 @@ img, picture, svg, video {
     overflow: hidden;
 }
 
+.hover:hover {
+    font-size: 60px;
+}
+
+.flecha {
+    margin-top: 50em;
+}
 
 
+@media (max-width:1880px) {
 
-
-/* 
-@media (max-width:940px) {
-    .hero {
+    /* .hero {
         background-image: url(./LULIPORTADAMOBILE.jpg);
+    } */
+    .flecha {
+        margin-top: 35em;
     }
-} */
+}
