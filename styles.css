@@ -51,20 +51,10 @@ img, picture, svg, video {
     overflow: hidden;
 }
 
-.color-links1 {
-    color:
-        #487de7;
-}
 
-.color-links2 {
-    color:
-        #4b0082;
-}
 
-.color-links3 {
-    color:
-        #ee82ee;
-}
+
+
 
 @media (max-width:940px) {
     .hero {
