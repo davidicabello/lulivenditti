@@ -51,8 +51,13 @@ img, picture, svg, video {
     overflow: hidden;
 }
 
+.hover {
+    transition: all 0.3s ease; /* Suaviza la transición */
+}
+
 .hover:hover {
-    font-size: 60px;
+    color: #ff0000; /* Cambia el color */
+    transform: scale(1.1); /* Aumenta el tamaño sin alterar el flujo */
 }
 
 .flecha {
